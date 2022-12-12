@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
+
 import { DataSource } from "typeorm";
 import path from "path";
 import "dotenv/config";

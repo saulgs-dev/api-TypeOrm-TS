@@ -9,6 +9,10 @@
     "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "strict": false
+  },
+  "rules": {
+    "@typescript-eslint/no-non-null-assertion": "warn"
   }
 }
